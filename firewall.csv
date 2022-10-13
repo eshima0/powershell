@@ -1,0 +1,6 @@
+port,name,action
+79,finger,block
+25,smtp,block
+443,https,allow
+22,ssh,allow
+80,http,allow
